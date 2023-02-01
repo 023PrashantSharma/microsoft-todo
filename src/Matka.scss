@@ -1,0 +1,2430 @@
+@media screen and (max-width: 650px) {
+    .main-container {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .responive {
+            width: 100%;
+            height: 100%;
+
+            .first-child {
+                width: 100%;
+                height: 8%;
+                background-color: #191c21;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .left {
+                    width: 10%;
+                    height: 100%;
+                    color: white;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    .drawer {
+                        width: 35px;
+                        height: 35px;
+                    }
+                }
+
+                .middle {
+                    width: 60%;
+                    height: 100%;
+                    color: white;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+
+                }
+
+                .right {
+                    width: 30%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    .left1 {
+                        width: 82%;
+                        height: 44%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        color: white;
+                        background: #191c21;
+
+                        .left1-child {
+                            width: 132%;
+                            height: 100%;
+                            font-size: 10px;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            border-radius: 20px;
+                            border: 2px solid transparent;
+                            background: linear-gradient(90deg, #191c21, #191c21) padding-box,
+                                linear-gradient(90deg, #e5de78, #fefefa);
+
+                            .left-child::after {
+                                border-radius: 10px;
+                            }
+
+
+                            .right1 {
+                                width: 23%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                color: orange;
+                                font-size: 132%;
+                                font-weight: bold;
+                            }
+
+                        }
+                    }
+
+
+
+                }
+            }
+
+
+            .second-child {
+                width: 100%;
+                height: 92%;
+                background-color: white;
+
+                .second-first-child {
+                    width: 100%;
+
+
+
+
+
+
+                    .inside-up {
+                        width: 98%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-left: 1%;
+
+                        .carousel1 {
+                            width: 100%;
+                            height: 100%;
+
+
+                            .img1 {
+                                width: 100%;
+
+
+                                border-radius: 2%;
+
+                            }
+                        }
+
+
+
+
+                    }
+
+                    .inside-down {
+                        height: 40%;
+                        width: 98%;
+                        margin-left: 1%;
+
+
+
+                        .inside-down-1 {
+                            width: 100%;
+                            height: 50%;
+                            padding: 24px 5px 20px 5px;
+                            background-color: #f1d0ac;
+                            border-radius: 10px 10px 0px 0px;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            .left2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    background-color: #000;
+                                    color: white;
+                                    border-radius: 15px;
+                                    font-size: 86%;
+                                    padding: 6px;
+                                    
+
+                                    .left2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+
+                                    .left2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+                                }
+
+
+
+                            }
+
+                            .middle2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .middle2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    font-size: 86%;
+                                    background-color: #049104;
+                                    border-radius: 15px;
+                                    color: white;
+                                    padding: 6px;
+
+                                    .middle2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                    }
+
+                                    .middle2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+                                }
+
+                            }
+
+                            .right2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .right2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+                                    background-color: #1087b8;
+                                    border-radius: 15px;
+                                    font-size: 86%;
+                                    padding: 6px;
+
+                                    .right2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+                                    .right2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+                                }
+
+                            }
+                        }
+
+                        .inside-down-2 {
+                            width: 100%;
+                            height: 50%;
+                            background-color: black;
+                            display: flex;
+                            border-radius: 0px 0px 10px 10px;
+                            justify-content: center;
+                            align-items: center;
+
+                            .left {
+                                width: 50%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left-child2 {
+                                    width: 100%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+
+                                    .left-child2-left {
+                                        width: 69px;
+                                        height: 67px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        margin-left: 13%;
+
+                                        .userimg {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .left-child2-right {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                        margin-right: 26%;
+                                    }
+                                }
+
+
+                            }
+
+                            .right {
+                                width: 50%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .right-child2 {
+                                    width: 100%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+                                    font-size: 85%;
+
+                                    .right-child2-left {
+                                        width: 63px;
+                                        height: 66px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .walletimg {
+                                            height: 69%;
+                                            width: 82%;
+                                            color: white;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                        }
+                                    }
+
+                                    .left-child2-right {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                    }
+                                }
+
+                            }
+                        }
+
+
+                    }
+                }
+
+                .second-second-child {
+                    width: 100%;
+                    height: 65%;
+                    overflow-y: scroll;
+
+                    .child1 {
+                        width: 96%;
+                        height: 28%;
+                        border-radius: 10px;
+                        background-color: #a7e6d1;
+                        margin-top: 2%;
+                        margin-left: 2%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        .left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #45957a;
+                            border-radius: 10px 0px 0px 10px;
+                        }
+
+                        .right {
+                            width: 95%;
+                            height: 100%;
+
+                            .top-child1 {
+                                width: 100%;
+                                height: 67%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left-top {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-top1 {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        background-color: #277d60;
+                                        border-radius: 40px;
+
+                                        .pic3 {
+                                            height: 100%;
+                                            width: 76%;
+                                        }
+                                    }
+                                }
+
+                                .middle-top {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .top1 {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: black;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+
+                                    }
+
+                                    .top2 {
+                                        width: 100%;
+                                        height: 40%;
+                                        color: black;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+                                    }
+                                }
+
+                                .right-top {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .play-child {
+                                        background-color: #277d60;
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: white;
+                                        border-radius: 40px;
+                                        font-size: 157%;
+                                    }
+                                }
+
+                            }
+
+                            .down-child1 {
+                                width: 100%;
+                                height: 33%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .down-left {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .clock1 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        width: 26px;
+
+                                        .time1 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+
+
+                                    }
+
+                                    .text {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        color: black;
+                                        
+
+
+
+                                    }
+
+                                }
+
+                                .down-middle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button1 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        color: red;
+
+                                        width: 117px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                        font-weight: bold;
+
+                                    }
+                                }
+
+                                .down-right {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .clock2 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time2 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+
+                                        }
+
+
+                                    }
+
+                                    .text2 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        color: black;
+                                    
+
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .child2 {
+                        height: 28%;
+                        width: 96%;
+                        margin-left: 2%;
+                        margin-top: 2%;
+                        background-color: #ffcfca;
+                        border-radius: 10px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        .child2-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #f5726a;
+                            border-radius: 10px 0px 0px 10px;
+                        }
+
+                        .child2-right {
+                            width: 95%;
+                            height: 100%;
+
+                            .top {
+                                width: 100%;
+                                height: 60%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .top-left {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        border-radius: 50px;
+                                        background-color: #df4e45;
+
+                                        .pic4 {
+                                            height: 85%;
+                                            width: 73%;
+                                        }
+                                    }
+
+                                }
+
+                                .top-middle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middle-top {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        font-size: 98%;
+                                        color: black;
+                                        letter-spacing: 2px;
+
+                                    }
+
+                                    .middle-down {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: black;
+                                        font-size: 98%;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+                                    }
+
+                                }
+
+                                .top-right {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .play2 {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        background-color: #df4e45;
+                                        color: white;
+                                        border-radius: 50px;
+                                        font-size: 25px;
+                                    }
+                                }
+                            }
+
+                            .down {
+                                width: 100%;
+                                height: 40%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .down-left {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .down-left3 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time3 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+
+                                    }
+
+                                    .down-right3 {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        color: black;
+                                
+
+
+                                    }
+
+
+                                }
+
+                                .down-middle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button2 {
+                                        width: 117px;
+
+                                        border: none;
+                                        border-radius: 10px;
+                                        font-size: 83%;
+                                        color: rgb(102, 211, 102);
+                                        font-weight: bold;
+                                    }
+
+                                }
+
+                                .down-right {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .down-right-left {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 132%;
+
+                                        .time4 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+                                    }
+
+                                    .down-right-right {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        color: black;
+                                        
+
+                                    }
+
+                                }
+
+
+                            }
+                        }
+                    }
+
+
+
+
+
+
+                    .child3 {
+                        height: 28%;
+                        width: 96%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-left: 2%;
+                        margin-top: 2%;
+
+                        .child3-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #31425e;
+                            border-radius: 10px 0px 0px 10px;
+
+                        }
+
+                        .child3-right {
+                            width: 95%;
+                            height: 100%;
+                            background-color: #c8c4ea;
+                            border-radius: 0px 10px 10px 0px;
+
+                            .right-top {
+                                height: 60%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .topleft {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 49px;
+                                        height: 50px;
+                                        background-color: #253550;
+                                        border-radius: 50px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .pic4 {
+                                            height: 71%;
+                                            width: 67%;
+                                        }
+                                    }
+                                }
+
+                                .topmiddle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middletop {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+
+
+                                    }
+
+                                    .middledown {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+                                    }
+
+                                }
+
+                                .topright {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    border-radius: 50px;
+                                    align-items: center;
+                                    font-weight: bold;
+
+                                    .play3 {
+                                        height: 47px;
+                                        width: 47px;
+                                        border-radius: 100%;
+                                        display: flex;
+                                        background-color: #31425e;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: white;
+                                        font-size: 25px;
+
+                                    }
+                                }
+                            }
+
+                            .right-down {
+                                height: 40%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .downleft {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .downleft1 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time5 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+
+                                    }
+
+                                    .downright1 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                    
+
+                                    }
+                                }
+
+                                .downmiddle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button3 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        color: red;
+                                        font-size: smaller;
+                                        font-weight: bold;
+
+                                        width: 117px;
+
+                                    }
+                                }
+
+                                .downright {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .rightleft {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time6 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+                                    }
+
+                                    .rightright {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                    
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .child4 {
+                        height: 28%;
+                        width: 96%;
+                        display: flex;
+                        margin-top: 2%;
+                        margin-left: 2%;
+                        justify-content: center;
+                        align-items: center;
+
+                        .child4-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #f2a947;
+                            border-radius: 10px 0px 0px 10px;
+
+                        }
+
+                        .child4-right {
+                            width: 95%;
+                            height: 100%;
+                            background-color: #f1d0ac;
+                            border-radius: 0px 10px 10px 0px;
+
+                            .right-top {
+                                height: 60%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .topleft {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 47px;
+                                        height: 47px;
+                                        background-color: #90662d;
+
+                                        border-radius: 50px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .pic4 {
+                                            height: 71%;
+                                            width: 67%;
+                                        }
+                                    }
+                                }
+
+                                .topmiddle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middletop {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+
+
+                                    }
+
+                                    .middledown {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        letter-spacing: 2px;
+                                    }
+
+                                }
+
+                                .topright {
+                                    width: 20%;
+                                    height: 100%;
+
+                                    display: flex;
+                                    justify-content: center;
+                                    border-radius: 50px;
+                                    align-items: center;
+                                    font-weight: bold;
+
+                                    .play4 {
+                                        height: 47px;
+                                        width: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        border-radius: 100%;
+                                        align-items: center;
+                                        color: white;
+                                        font-size: 25px;
+                                        background-color: #90662d;
+
+                                    }
+                                }
+
+
+                            }
+
+                            .right-down {
+                                height: 40%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .downleft1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left1clock {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time7 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .left1text {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        
+
+                                    }
+                                }
+
+                                .downmiddle1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button4 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        width: 117px;
+                                        height: 51%;
+                                        font-size: smaller;
+                                        font-weight: bold;
+                                        color: rgb(102, 211, 102);
+                                    }
+                                }
+
+                                .downright1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .right1left {
+                                        width: 20%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time8 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .right1right {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                    
+                                    }
+
+                                }
+
+                            }
+
+                        }
+
+                    }
+
+
+                }
+            }
+        }
+    }
+    
+}
+
+@media screen and (min-width: 650px) {
+    .main-container {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .responive {
+            width: 40%;
+            height: 100%;
+
+            .first-child {
+                width: 100%;
+                height: 8%;
+                background-color: #191c21;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .left {
+                    width: 10%;
+                    height: 100%;
+                    color: white;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    .drawer {
+                        width: 35px;
+                        height: 35px;
+                    }
+                }
+
+                .middle {
+                    width: 60%;
+                    height: 100%;
+                    color: white;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+
+                }
+
+                .right {
+                    width: 30%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    .left1 {
+                        width: 82%;
+                        height: 44%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        color: white;
+                        background: #191c21;
+
+                        .left1-child {
+                            width: 132%;
+                            height: 100%;
+                            font-size: 10px;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            border-radius: 20px;
+                            border: 2px solid transparent;
+                            background: linear-gradient(90deg, #191c21, #191c21) padding-box,
+                                linear-gradient(90deg, #e5de78, #fefefa);
+
+                            .left-child::after {
+                                border-radius: 10px;
+                            }
+
+
+                            .right1 {
+                                width: 23%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                color: orange;
+                                font-size: 132%;
+                                font-weight: bold;
+                            }
+
+                        }
+                    }
+
+
+
+                }
+            }
+
+
+            .second-child {
+                width: 100%;
+                height: 92%;
+                background-color: white;
+
+                .second-first-child {
+                    width: 100%;
+
+
+
+
+
+
+                    .inside-up {
+                        width: 98%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-left: 1%;
+
+                        .carousel1 {
+                            width: 100%;
+                            height: 100%;
+
+
+                            .img1 {
+                                width: 100%;
+
+
+                                border-radius: 2%;
+
+                            }
+                        }
+
+
+
+
+                    }
+
+                    .inside-down {
+                        height: 40%;
+                        width: 98%;
+                        margin-left: 1%;
+
+
+
+                        .inside-down-1 {
+                            width: 100%;
+                            height: 50%;
+                            padding: 24px 5px 20px 5px;
+                            background-color: #f1d0ac;
+                            border-radius: 10px 10px 0px 0px;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            .left2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    background-color: #000;
+                                    color: white;
+                                    border-radius: 15px;
+                                    font-size: 86%;
+
+                                    .left2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+
+                                    .left2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+                                }
+
+
+
+                            }
+
+                            .middle2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .middle2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    font-size: 86%;
+                                    background-color: #049104;
+                                    border-radius: 15px;
+                                    color: white;
+
+                                    .middle2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                    }
+
+                                    .middle2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+                                }
+
+                            }
+
+                            .right2 {
+                                width: 33%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .right2-child {
+                                    width: 88%;
+                                    height: 46%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+                                    background-color: #1087b8;
+                                    border-radius: 15px;
+                                    font-size: 86%;
+
+                                    .right2-left {
+                                        width: 22%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+
+                                    .right2-right {
+                                        width: 70%;
+                                        height: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                    }
+                                }
+
+                            }
+                        }
+
+                        .inside-down-2 {
+                            width: 100%;
+                            height: 50%;
+                            background-color: black;
+                            display: flex;
+                            border-radius: 0px 0px 10px 10px;
+                            justify-content: center;
+                            align-items: center;
+
+                            .left {
+                                width: 50%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left-child2 {
+                                    width: 100%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+
+                                    .left-child2-left {
+                                        width: 69px;
+                                        height: 67px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        margin-left: 13%;
+
+                                        .userimg {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .left-child2-right {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                        margin-right: 26%;
+                                    }
+                                }
+
+
+                            }
+
+                            .right {
+                                width: 50%;
+                                height: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .right-child2 {
+                                    width: 100%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    color: white;
+                                    font-size: 85%;
+
+                                    .right-child2-left {
+                                        width: 63px;
+                                        height: 66px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .walletimg {
+                                            height: 69%;
+                                            width: 82%;
+                                            color: white;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                        }
+                                    }
+
+                                    .left-child2-right {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                    }
+                                }
+
+                            }
+                        }
+
+
+                    }
+                }
+
+                .second-second-child {
+                    width: 100%;
+                    height: 65%;
+                    overflow-y: scroll;
+
+                    .child1 {
+                        width: 96%;
+                        height: 28%;
+                        border-radius: 10px;
+                        background-color: #a7e6d1;
+                        margin-top: 2%;
+                        margin-left: 2%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        .left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #45957a;
+                            border-radius: 10px 0px 0px 10px;
+                        }
+
+                        .right {
+                            width: 95%;
+                            height: 100%;
+
+                            .top-child1 {
+                                width: 100%;
+                                height: 67%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .left-top {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-top1 {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        background-color: #277d60;
+                                        border-radius: 40px;
+
+                                        .pic3 {
+                                            height: 100%;
+                                            width: 76%;
+                                        }
+                                    }
+                                }
+
+                                .middle-top {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .top1 {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: black;
+                                        font-weight: bold;
+
+                                    }
+
+                                    .top2 {
+                                        width: 100%;
+                                        height: 40%;
+                                        color: black;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                    }
+                                }
+
+                                .right-top {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .play-child {
+                                        background-color: #277d60;
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: white;
+                                        border-radius: 40px;
+                                        font-size: 157%;
+                                    }
+                                }
+
+                            }
+
+                            .down-child1 {
+                                width: 100%;
+                                height: 33%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .down-left {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .clock1 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        width: 26px;
+
+                                        .time1 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+
+
+                                    }
+
+                                    .text {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 68%;
+                                        color: black;
+                                        font-weight: 630;
+
+
+
+                                    }
+
+                                }
+
+                                .down-middle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button1 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        color: red;
+
+                                        width: 117px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: small;
+                                        font-weight: bold;
+
+                                    }
+                                }
+
+                                .down-right {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .clock2 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time2 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+
+                                        }
+
+
+                                    }
+
+                                    .text2 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 68%;
+                                        color: black;
+                                        font-weight: 630;
+
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .child2 {
+                        height: 28%;
+                        width: 96%;
+                        margin-left: 2%;
+                        margin-top: 2%;
+                        background-color: #ffcfca;
+                        border-radius: 10px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        .child2-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #f5726a;
+                            border-radius: 10px 0px 0px 10px;
+                        }
+
+                        .child2-right {
+                            width: 95%;
+                            height: 100%;
+
+                            .top {
+                                width: 100%;
+                                height: 60%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .top-left {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        border-radius: 50px;
+                                        background-color: #df4e45;
+
+                                        .pic4 {
+                                            height: 85%;
+                                            width: 73%;
+                                        }
+                                    }
+
+                                }
+
+                                .top-middle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middle-top {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                        font-size: 98%;
+                                        color: black;
+
+                                    }
+
+                                    .middle-down {
+                                        width: 100%;
+                                        height: 50%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: black;
+                                        font-size: 98%;
+                                        font-weight: bold;
+                                    }
+
+                                }
+
+                                .top-right {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .play2 {
+                                        width: 47px;
+                                        height: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        background-color: #df4e45;
+                                        color: white;
+                                        border-radius: 50px;
+                                        font-size: 25px;
+                                    }
+                                }
+                            }
+
+                            .down {
+                                width: 100%;
+                                height: 40%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .down-left {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .down-left3 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time3 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+
+                                    }
+
+                                    .down-right3 {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 70%;
+                                        color: black;
+                                        font-weight: 630;
+
+
+                                    }
+
+
+                                }
+
+                                .down-middle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button2 {
+                                        width: 117px;
+
+                                        border: none;
+                                        border-radius: 10px;
+                                        font-size: 83%;
+                                        color: rgb(102, 211, 102);
+                                        font-weight: bold;
+                                    }
+
+                                }
+
+                                .down-right {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .down-right-left {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 132%;
+
+                                        .time4 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+                                    }
+
+                                    .down-right-right {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 72%;
+                                        color: black;
+                                        font-weight: 630;
+
+                                    }
+
+                                }
+
+
+                            }
+                        }
+                    }
+
+
+
+
+
+
+                    .child3 {
+                        height: 28%;
+                        width: 96%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-left: 2%;
+                        margin-top: 2%;
+
+                        .child3-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #31425e;
+                            border-radius: 10px 0px 0px 10px;
+
+                        }
+
+                        .child3-right {
+                            width: 95%;
+                            height: 100%;
+                            background-color: #c8c4ea;
+                            border-radius: 0px 10px 10px 0px;
+
+                            .right-top {
+                                height: 60%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .topleft {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 49px;
+                                        height: 50px;
+                                        background-color: #253550;
+                                        border-radius: 50px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .pic4 {
+                                            height: 71%;
+                                            width: 67%;
+                                        }
+                                    }
+                                }
+
+                                .topmiddle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middletop {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+
+
+                                    }
+
+                                    .middledown {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                    }
+
+                                }
+
+                                .topright {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    border-radius: 50px;
+                                    align-items: center;
+                                    font-weight: bold;
+
+                                    .play3 {
+                                        height: 47px;
+                                        width: 47px;
+                                        border-radius: 100%;
+                                        display: flex;
+                                        background-color: #31425e;
+                                        justify-content: center;
+                                        align-items: center;
+                                        color: white;
+                                        font-size: 25px;
+
+                                    }
+                                }
+                            }
+
+                            .right-down {
+                                height: 40%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .downleft {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .downleft1 {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time5 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+
+                                    }
+
+                                    .downright1 {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        font-weight: 630;
+
+                                    }
+                                }
+
+                                .downmiddle {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button3 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        color: red;
+                                        font-size: smaller;
+                                        font-weight: bold;
+
+                                        width: 117px;
+
+                                    }
+                                }
+
+                                .downright {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .rightleft {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time6 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+
+                                            width: 15px;
+                                        }
+                                    }
+
+                                    .rightright {
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        font-weight: 630;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .child4 {
+                        height: 28%;
+                        width: 96%;
+                        display: flex;
+                        margin-top: 2%;
+                        margin-left: 2%;
+                        justify-content: center;
+                        align-items: center;
+
+                        .child4-left {
+                            width: 5%;
+                            height: 100%;
+                            background-color: #f2a947;
+                            border-radius: 10px 0px 0px 10px;
+
+                        }
+
+                        .child4-right {
+                            width: 95%;
+                            height: 100%;
+                            background-color: #f1d0ac;
+                            border-radius: 0px 10px 10px 0px;
+
+                            .right-top {
+                                height: 60%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .topleft {
+                                    width: 20%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left-icon {
+                                        width: 47px;
+                                        height: 47px;
+                                        background-color: #90662d;
+
+                                        border-radius: 50px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .pic4 {
+                                            height: 71%;
+                                            width: 67%;
+                                        }
+                                    }
+                                }
+
+                                .topmiddle {
+                                    width: 60%;
+                                    height: 100%;
+
+                                    .middletop {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+
+
+                                    }
+
+                                    .middledown {
+                                        height: 50%;
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-weight: bold;
+                                    }
+
+                                }
+
+                                .topright {
+                                    width: 20%;
+                                    height: 100%;
+
+                                    display: flex;
+                                    justify-content: center;
+                                    border-radius: 50px;
+                                    align-items: center;
+                                    font-weight: bold;
+
+                                    .play4 {
+                                        height: 47px;
+                                        width: 47px;
+                                        display: flex;
+                                        justify-content: center;
+                                        border-radius: 100%;
+                                        align-items: center;
+                                        color: white;
+                                        font-size: 25px;
+                                        background-color: #90662d;
+
+                                    }
+                                }
+
+
+                            }
+
+                            .right-down {
+                                height: 40%;
+                                width: 100%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                .downleft1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .left1clock {
+                                        width: 26px;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time7 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .left1text {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        font-weight: 630;
+
+                                    }
+                                }
+
+                                .downmiddle1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .button4 {
+                                        border: none;
+                                        border-radius: 10px;
+                                        width: 117px;
+                                        height: 51%;
+                                        font-size: smaller;
+                                        font-weight: bold;
+                                        color: rgb(102, 211, 102);
+                                    }
+                                }
+
+                                .downright1 {
+                                    width: 33%;
+                                    height: 100%;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    .right1left {
+                                        width: 20%;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        .time8 {
+                                            width: 15px;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                    }
+
+                                    .right1right {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        font-size: 71%;
+                                        font-weight: 630;
+                                    }
+
+                                }
+
+                            }
+
+                        }
+
+                    }
+
+
+                }
+            }
+        }
+    }
+}
